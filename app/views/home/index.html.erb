@@ -1,1 +1,38 @@
-<% title "Welcome #{current_user.username}" %>
+<script type="text/javascript">
+	$(function(){
+		$('#flit_message').keyup(function(){
+			var content_length = ($(this).val().length);
+			var remaining = 140 - content_length;
+			$('#char_count').html(remaining);
+			
+			if (remaining < 21 && remaining > 9) {
+				$('#char_count').removeClass('red');
+				$('#char_count').addClass('dark_red');
+			} else if (remaining <= 9) {
+				$('#char_count').removeClass('dark_red');
+				$('#char_count').addClass('red');
+			} else {
+				$('#char_count').removeClass('dark_red').removeClass('red');
+			}
+		})	
+	})
+	
+</script>
+<%= form_for Flit.new do |f| %>
+	<div id="new_flit_form">
+		<h3 style="float: left;">What are you doing?</h3>
+		<h3 id="char_count">140</h3>
+		<div class="clear"></div>
+		<%= f.text_area :message %>
+		<div id="latest_message">
+			<strong>Latest:</strong> <%= @last_flit.message %>
+				<%= distance_of_time_in_words_to_now(@last_flit.created_at)%> ago
+		</div>
+		<div id="submit_button_container">
+			<%= f.submit "update", :class => "button" %>
+		</div>
+		<div class="clear"></div>
+	</div>
+<% end %>
+
+<%= render 'flits_list', :flits => @flits %>

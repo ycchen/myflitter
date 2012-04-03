@@ -17,12 +17,14 @@ end
 			password: 'foobar',
 			password_confirmation: 'foobar')
 
-		10.times do
-			username = Faker::Internet.user_name
+		100.times do |n|
+			username = Faker::Internet.user_name.gsub(/[.]/,'-')
+			#username = Faker::Internet.user_name
 			email = Faker:: Internet.email
 			password = 'foobar'
 			User.create!(
-					username: username,
+					#username: username,
+					username: "#{username}#{n}",
 					email: email,
 					password: password,
 					password_confirmation: password

@@ -1,0 +1,758 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"def",
+				"defd	def_delegator .."
+			],
+			[
+				"friend",
+				"friendships"
+			],
+			[
+				"fri",
+				"friend_id"
+			],
+			[
+				"frie",
+				"friendships"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"populate",
+				"populate_users"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"attr",
+				"attr_accessible  (function)"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"has",
+				"has_secure_password"
+			],
+			[
+				"follow",
+				"followed_id"
+			],
+			[
+				"follo",
+				"followed_id"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"passwor",
+				"password"
+			],
+			[
+				"signed_in",
+				"signed_in_user"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"redirect",
+				"redirect_to"
+			],
+			[
+				"rememb",
+				"remember_token"
+			],
+			[
+				"signin",
+				"signin_path"
+			],
+			[
+				"have",
+				"have_link"
+			],
+			[
+				"it",
+				"information"
+			],
+			[
+				"sig",
+				"signin"
+			],
+			[
+				"gra",
+				"gravatar_url"
+			],
+			[
+				"gravatar",
+				"gravatar_id"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"pages",
+				"user_pages"
+			],
+			[
+				"backg",
+				"background	background-color: hex"
+			],
+			[
+				"sty",
+				"stylesheet_link_tag"
+			],
+			[
+				"valid",
+				"valid_email_regex"
+			],
+			[
+				"len",
+				"legend	<legend>"
+			],
+			[
+				"red",
+				"redirect_to"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"Password",
+				"hashed_password"
+			],
+			[
+				"users",
+				"users_url"
+			],
+			[
+				"salt",
+				"generate_salt"
+			],
+			[
+				"order",
+				"order"
+			],
+			[
+				"P",
+				"PAYMENT_TYPES"
+			],
+			[
+				"div",
+				"div	<div>"
+			],
+			[
+				"margin-l",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin	margin: V H"
+			],
+			[
+				"depo",
+				"depot_form"
+			],
+			[
+				"textarea",
+				"textarea	<textarea>"
+			],
+			[
+				"textar",
+				"textarea	<textarea>"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"display",
+				"display	display: common-types"
+			],
+			[
+				"padding-top",
+				"padding-top:   (property)"
+			],
+			[
+				"width",
+				"width:   (property)"
+			],
+			[
+				"pad",
+				"padding	padding: V H"
+			],
+			[
+				"sans-s",
+				"sans-serif  (value)"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			],
+			[
+				"bac",
+				"background	background-color: hex"
+			],
+			[
+				"fiel",
+				"fieldset	<fieldset>"
+			],
+			[
+				"form",
+				"form: <form>"
+			],
+			[
+				"has_many",
+				"has_many  (function)"
+			],
+			[
+				"belong",
+				"belongs_to  (function)"
+			],
+			[
+				"has_",
+				"has_many  (function)"
+			],
+			[
+				"create",
+				"create  (function)"
+			],
+			[
+				"Recor",
+				"RecordNotFound  (class)"
+			],
+			[
+				"rescu",
+				"rescue  (function)"
+			],
+			[
+				"valida",
+				"validates_uniqueness_of  (function)"
+			],
+			[
+				"validates",
+				"validates_associated  (function)"
+			],
+			[
+				"cfparam",
+				"cfparam: cfparam - name and default"
+			],
+			[
+				"input",
+				"input: input - submit"
+			],
+			[
+				"html",
+				"html: html"
+			],
+			[
+				"cfscript",
+				"cfscript: cfscript"
+			],
+			[
+				"cfloop",
+				"cfloop: cfloop - query"
+			],
+			[
+				"cfoutput",
+				"cfoutput: cfoutput"
+			],
+			[
+				"key",
+				"key  (variable)"
+			],
+			[
+				"s",
+				"script>  (element)"
+			],
+			[
+				"scri",
+				"script>  (element)"
+			],
+			[
+				"script",
+				"script>  (element)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"Set Syntax: ColdFusion"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"cold",
+				"Set Syntax: ColdFusion"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 143.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/websites/ror_flitter/app/models/user.rb",
+		"/C/websites/ror_myflitter/lib/controller_authentication.rb",
+		"/C/websites/ror_myflitter/app/controllers/home_controller.rb",
+		"/C/websites/ror_myflitter/app/models/flit.rb",
+		"/C/websites/ror_myflitter/db/migrate/20120327174933_create_friendships.rb",
+		"/C/websites/ror_myflitter/app/models/user.rb",
+		"/C/websites/ror_myflitter/lib/tasks/populate.rake",
+		"/C/websites/ror_myflitter/Gemfile",
+		"/C/websites/ror_myflitter/app/models/friendship.rb",
+		"/C/websites/ror_myflitter/config/routes.rb",
+		"/C/websites/ror_myflitter/app/views/home/index.html.erb",
+		"/C/websites/ror_myfriends/app/controllers/flits_controller.rb",
+		"/C/websites/ror_myfriends/app/assets/javascripts/flits.js.coffee",
+		"/C/websites/ror_myfriends/test/functional/flits_controller_test.rb",
+		"/C/Users/yungchih.chen/.ssh/id_rsa.pub",
+		"/C/websites/sample_app/README.rdoc",
+		"/C/websites/ror_myflitter/README",
+		"//192.168.10.211/c$/inetpub/wwwroot/usmc-nhs/com/global/chart.cfc",
+		"/C/websites/usmc-nhs/index.cfm",
+		"/C/websites/usmc-nhs/com/global/chart.cfc",
+		"/C/websites/ror_myflitter/.gitignore",
+		"/C/websites/ror_flitter/app/views/home/index.html.erb",
+		"/C/websites/ror_myfriends/lib/tasks/populate.rake",
+		"/C/websites/ror_flitter/app/models/friendship.rb",
+		"/C/websites/ror_myfriends/app/controllers/friendships_controller.rb",
+		"/C/websites/sample_app/app/models/user.rb",
+		"/C/websites/ror_myfriends/app/models/friendship.rb",
+		"/C/websites/sample_app/app/models/relationship.rb",
+		"/C/websites/sample_app/app/models/micropost.rb",
+		"/C/websites/ror_flitter/db/migrate/20090906195621_create_friendships.rb",
+		"/C/websites/ror_myfriends/app/models/user.rb",
+		"/C/websites/ror_flitter/db/seeds.rb",
+		"/C/websites/ror_myflitter/test/unit/friendship_test.rb",
+		"/C/websites/ror_myflitter/test/fixtures/friendships.yml",
+		"/C/websites/ror_railscasts/lib/tasks/application.rake",
+		"/C/websites/ror_flitter/config/environment.rb",
+		"/C/websites/ror_myflitter/db/migrate/20120327142332_create_users.rb",
+		"/C/websites/ror_myflitter/public/stylesheets/application.css",
+		"/C/websites/ror_myfriends/config/routes.rb",
+		"/C/websites/ror_myflitter/app/views/welcome/index.html.erb",
+		"/C/websites/ror_myflitter/app/controllers/welcome_controller.rb",
+		"/C/websites/ror_myflitter/app/assets/stylesheets/application.css",
+		"/C/websites/ror_myflitter/app/views/layouts/application.html.erb",
+		"/C/websites/ror_myflitter/db/migrate/20120327144608_create_flits.rb",
+		"/C/websites/sample_app/db/migrate/20120224194004_create_microposts.rb",
+		"/C/websites/sample_app/db/migrate/20120214230822_add_index_to_users_email.rb",
+		"/C/websites/sample_app/db/migrate/20120213202537_create_users.rb",
+		"/C/websites/ror_flitter/config/routes.rb",
+		"/C/websites/ror_myfriends/Gemfile",
+		"/C/websites/ror_redmine/ihower-redmine-6c85ab4/README.rdoc",
+		"/C/websites/ror_flitter/Gemfile",
+		"/C/websites/ror_flitter/lib/authentication.rb",
+		"/C/websites/ror_flitter/app/controllers/application_controller.rb",
+		"/C/websites/ror_flitter/app/views/layouts/application.html.erb",
+		"/C/websites/ror_myfriends/app/controllers/users_controller.rb",
+		"/C/websites/ror_myfriends/app/views/users/index.html.erb",
+		"/C/websites/ror_friends/app/models/user.rb",
+		"/C/websites/ror_flitter/db/schema.rb",
+		"/C/websites/ror_flitter/Rakefile",
+		"/C/websites/ror_flitter/README",
+		"/C/websites/rails_for_zombies/Gemfile",
+		"/C/websites/rails_for_zombies/config/routes.rb",
+		"/C/websites/rails_for_zombies/app/views/tweets/index.html.erb",
+		"/C/websites/rails_for_zombies/db/seeds.rb",
+		"/C/websites/ror_friends/app/views/users/show.html.erb",
+		"/C/websites/ror_friends/public/stylesheets/application.css",
+		"/C/websites/ror_friends/app/views/layouts/application.html.erb",
+		"/C/websites/ror_myfriends/app/views/users/show.html.erb",
+		"/C/websites/ror_myfriends/app/assets/stylesheets/application.css",
+		"/C/websites/ror_myfriends/app/views/layouts/application.html.erb",
+		"/C/websites/ror_myfriends/db/migrate/20120326015157_create_friendships.rb",
+		"/C/websites/ror_friends/app/controllers/users_controller.rb",
+		"/C/websites/ror_friends/app/views/users/index.html.erb",
+		"/C/websites/ror_friends/db/migrate/20090523231751_create_friendships.rb",
+		"/C/websites/ror_friends/app/models/friendship.rb",
+		"/C/websites/ror_friends/app/controllers/friendships_controller.rb",
+		"/C/websites/ror_addressbook/Gemfile",
+		"/C/websites/sample_app/lib/tasks/sample_data.rake",
+		"/C/websites/ror_addressbook/lib/tasks/populate.rake",
+		"/C/websites/ror_friends/db/migrate/20090523212130_create_users.rb",
+		"/C/websites/ror_friends/config/routes.rb",
+		"/C/websites/ror_myfriends/public/index2.html",
+		"/C/websites/ror_addressbook/app/models/person.rb",
+		"/C/websites/ror_addressbook/app/models/user.rb",
+		"/C/websites/ror_addressbook/app/views/layouts/application.html.erb",
+		"/C/websites/sample_app/app/views/layouts/_footer.html.erb",
+		"/C/websites/sample_app/app/assets/stylesheets/layout.css.scss",
+		"/C/websites/ror_addressbook/app/assets/stylesheets/scaffolds.css.scss",
+		"/C/websites/ror_addressbook/app/assets/stylesheets/people.css.scss",
+		"/C/websites/ror_addressbook/app/assets/stylesheets/application.css",
+		"/C/websites/sample_app/app/views/layouts/application.html.erb",
+		"/C/websites/sample_app/app/assets/stylesheets/application.css",
+		"/C/websites/sample_app/app/assets/stylesheets/sessions.css.scss",
+		"/C/websites/sample_app/app/assets/stylesheets/static_pages.css.scss",
+		"/C/websites/sample_app/app/assets/stylesheets/users.css.scss",
+		"/C/websites/ror_addressbook/app/views/people/index.html.erb",
+		"/C/websites/ror_addressbook/app/controllers/people_controller.rb",
+		"/C/websites/ror_addressbook/config/locales/en.yml",
+		"/C/websites/ror_addressbook/config/routes.rb",
+		"/C/websites/ror_addressbook2/app/views/layouts/application.html.erb",
+		"/C/websites/ror_addressbook/config/locales/devise.en.yml",
+		"/C/websites/ror_addressbook/app/assets/javascripts/application.js",
+		"/C/websites/ror_addressbook/public/500.html",
+		"/C/websites/ror_addressbook2/app/controllers/people_controller.rb",
+		"/C/websites/ror_addressbook/config/initializers/devise.rb",
+		"/C/websites/ror_addressbook/public/index2.html",
+		"/C/websites/ror_addressbook/config/environments/development.rb",
+		"/C/websites/ror_addressbook2/Gemfile",
+		"/C/websites/ror_addressbook/app/views/devise/sessions/new.html.erb",
+		"/C/websites/ror_addressbook/app/views/devise/registrations/new.html.erb",
+		"/C/websites/sample_app/app/views/users/_user.html.erb",
+		"/C/websites/ror_addressbook/db/migrate/20120323023813_create_people.rb",
+		"/C/websites/ror_addressbook/db/migrate/20120324001204_devise_create_users.rb",
+		"/C/websites/ror_addressbook/config/application.rb",
+		"/C/websites/sample_app/Gemfile",
+		"/C/websites/ror_flitter/log/development.log",
+		"/C/websites/ror_addressbookold/app/models/person.rb",
+		"/C/websites/ror_addressbookold/config/routes.rb",
+		"/C/websites/sample_app/config/routes.rb",
+		"/C/websites/ror_addressbookold/public/index2.html",
+		"/C/websites/ror_addressbook/db/migrate/20120322203141_create_people.rb",
+		"/C/websites/ror_addressbookold/db/migrate/20100802185220_create_people.rb",
+		"/C/websites/ror_railscasts/Gemfile",
+		"/C/websites/ror_AppEngine/Gemfile",
+		"/C/websites/ror_example/README.md",
+		"/C/websites/ror_example/Rakefile",
+		"/C/websites/ror_example/Gemfile",
+		"/C/websites/demo/Gemfile"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\websites\\ror_addressbook",
+			"C:\\websites\\railcoach",
+			"C:\\websites\\prisms",
+			"C:\\temp\\boldy",
+			"C:\\websites\\sample_app",
+			"C:\\websites\\prisms",
+			"C:\\websites\\bocs\\,*.cfm",
+			"C:\\websites\\bocs\\",
+			"C:\\websites\\bocs\\*.*",
+			"C:\\websites\\bocs\\",
+			"C:\\websites\\depot\\app\\",
+			"C:\\websites\\depot\\app\\views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"localURL",
+			"frienship",
+			"devise.rb",
+			"devose.rb",
+			"cookie_veri",
+			"cookie_v",
+			"eventmachine",
+			"diff",
+			"eventmachine",
+			"event",
+			"kgio",
+			"localUrl",
+			"pdf",
+			"faquestion",
+			"fade_fold",
+			"fade",
+			"seausg",
+			"usg013",
+			"USGdata",
+			"starUSGdata",
+			"bk_submenu",
+			".emm-paginate a",
+			"bk_dotted_thick.png",
+			"tab",
+			"white",
+			"space",
+			"tabs",
+			"	<%= ",
+			")%>",
+			"FactoryGirl",
+			"space",
+			"FactoryGirl",
+			"white",
+			"indent",
+			"space",
+			"gravatar_for",
+			"AutoFitWidth",
+			"loadSVNData",
+			"<!DOCTYPE html",
+			"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML",
+			"<!DOCTYPE HTML public",
+			"<!DOCTYPE HTML",
+			"HTTP_REFERER",
+			"pbis_prorate",
+			"html",
+			"end",
+			"session.xls_file_path",
+			"undergoing maintenance",
+			"stop_msg",
+			"---------------------------\nSublime Text 2\n---------------------------\nA plugin (SublimeTagmatcher) may be making Sublime Text unresponsive by taking too long (0.033000s) in its on_selection_modified callback.\n\nThis message can be disabled via the detect_slow_plugins global setting\n---------------------------\nOK   \n---------------------------\nstop_msg",
+			"undergoing maintenance",
+			"bocs",
+			"The NHS system is currently undergoing maintenance",
+			"<br>",
+			"alter",
+			"ACRN Funding:",
+			"ACRN Funding",
+			"ACRN Funding:",
+			"split",
+			"invoiceindirect",
+			"invoice-indirect",
+			"_method",
+			"tab",
+			"white",
+			"space",
+			"tab",
+			"_path",
+			"store_url",
+			"path",
+			"_url",
+			"url",
+			"_url",
+			"path",
+			"_path",
+			"line_item_path",
+			"product_path",
+			"product",
+			"line_item_path",
+			"RDS",
+			"port",
+			"19998",
+			"cart",
+			"cart_title",
+			"Attempt to access invalid cart",
+			"#store",
+			".entry",
+			"main",
+			"banner",
+			"assets",
+			"<!-- BEGIN HEADER -->\n<!-- BEgin Header",
+			"dms-logo",
+			"invoiceshow",
+			"update",
+			"subcontractor",
+			"invoice",
+			"invoiceassign",
+			"invoice",
+			"invoiceassign",
+			"cost",
+			"table_map",
+			"labors",
+			"laborTotalRow",
+			"invoiceedit",
+			"invoiceadd",
+			"invoice-add",
+			"strFilePath",
+			"our",
+			"invoice",
+			"mockup",
+			"completion",
+			"tab",
+			"completion",
+			"tab_com",
+			"tab",
+			"back to",
+			"serversync",
+			"request.componentPath",
+			"master",
+			"request.",
+			"request.comp",
+			"json",
+			"Using cached SVN data",
+			"com",
+			"json",
+			"com.json",
+			"cfexectue",
+			"cfexe",
+			"getProfileItems"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"cfloop"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"people.css",
+				"ror_addressbook/app/assets/stylesheets/people.css.scss"
+			],
+			[
+				"css",
+				"prisms/css.html"
+			],
+			[
+				"invoicem",
+				"views/admin/invoiceEditMockup.cfm"
+			],
+			[
+				"admin.cfc",
+				"controllers/Admin.cfc"
+			],
+			[
+				"invoices.cfc",
+				"controllers/Invoices.cfc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/inetpub/wwwroot/dashboard/dashboard.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true
+}

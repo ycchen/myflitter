@@ -8,12 +8,36 @@
     <%= yield(:head) %>
   </head>
   <body>
-    <div id="container">
-      <% flash.each do |name, msg| %>
-        <%= content_tag :div, msg, :id => "flash_#{name}" %>
-      <% end %>
-      <%= content_tag :h1, yield(:title) if show_title? %>
-      <%= yield %>
+    <div id="header">
+      <div id="logo">
+        <%= image_tag("logo.png", :alt => "Flitter") %>
+      </div>
+      <div id="top_links_container">
+        <% if current_user %>
+          logged in as <%= current_user.username %> |
+          <%= link_to "Logout", logout_path %> 
+        <% else %>
+          <%= link_to "login", login_path %> |
+          <%= link_to "Join Flitter", signup_path %>
+        <% end %>
+      </div>
     </div>
+    <div class="clear"></div>
+    <div id="container">
+      <div id="main">
+        <% flash.each do |name, msg| %>
+          <%= content_tag :div, msg, :id => "flash_#{name}" %>
+        <% end %>
+        <%= content_tag :h1, yield(:title) if show_title? %>
+        <%= yield %>
+      </div>
+      <div id="side">
+        <% if current_user %>
+          <%= render '/includes/side_contents' %>
+        <% end %>
+      </div>
+      <div class="clear"></div>
+    </div>
+
   </body>
 </html>

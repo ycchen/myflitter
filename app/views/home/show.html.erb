@@ -1,0 +1,17 @@
+
+<h1><%= image_tag @user.gravatar_url, :align => "top" %> <%= @user.username %></h1>
+
+<%= form_tag toggle_follow_path do %>
+	<!--
+	<%= current_user.is_friend? @user%>	
+	<%= submit_tag ((current_user.is_friend? @user) ? "Following" : "Not Following"), :class => "button" %>
+	-->
+	
+	<% if current_user.is_friend? @user %>
+		<%= submit_tag "Following", :class => "button" %>
+	<% else %>
+		<%= submit_tag "Not Following", :class => "button" %>
+	<% end %>
+<% end %>
+<br/>
+<%= render 'flits_list', :flits => @flits %>

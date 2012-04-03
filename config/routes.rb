@@ -1,16 +1,24 @@
 RorMyflitter::Application.routes.draw do
-  match 'user/edit' => 'users#edit', :as => :edit_current_user
 
   match 'signup' => 'users#new', :as => :signup
-
   match 'logout' => 'sessions#destroy', :as => :logout
-
   match 'login' => 'sessions#new', :as => :login
+  match 'user/edit' => 'users#edit', :as => :edit_current_user
 
   resources :sessions
 
   resources :users
 
+  resources :flits
+  
+  match '/search' => 'home#search', :as => :search
+  match '/remove_friend/:username' => 'home#remove_friend', :as => :remove_friend
+  match '/following' => 'home#following', :as => :following
+  match '/:username' => 'home#show', :as => :user_flits
+  match '/:username/toggle_follow_via_ajax' => 'home#toggle_follow_via_ajax', :as => :toggle_follow_via_ajax
+  match '/:username/toggle_follow'=> 'home#toggle_follow', :as => :toggle_follow
+
+  
   root :to => 'home#index'
   # The priority is based upon order of creation:
   # first created -> highest priority.

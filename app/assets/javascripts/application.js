@@ -13,3 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
+$(function() {
+  $('#search_submit_button').click(function() {
+    $(this).closest('form').submit();
+  })
+});
